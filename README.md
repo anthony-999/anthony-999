@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @anthony-999
+- 👋 Hi, I’m Anthony Valdez
+-    From Laguna
 - 👀 I’m interested in Website Development
 - 🌱 I’m currently learning Web designing 
 
