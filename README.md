@@ -1,10 +1,10 @@
--Hello, I'm Anthony Valdez, and I'm 21 years old right now.
--from Laguna, Philippines' San Pedro City,
--I'm a second-year student at Cavite State University.
--Information technology bachelor's degree.
--Interested in designing and developing websites as well as
--I've been a charcoal artist since 2020,
--I appreciate you and hope you have fun!
+    Hello, I'm Anthony Valdez, and I'm 21 years old right now.
+    from Laguna, Philippines' San Pedro City,
+    I'm a second-year student at Cavite State University.
+    Information Technology Bachelor's degree.
+    Interested in designing and developing websites as well as
+    I've been a charcoal artist since 2020,
+    I appreciate you and hope you have fun!
 
 
 <!---
