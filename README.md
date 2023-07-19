@@ -1,8 +1,6 @@
-    Hello, I'm Anthony Valdez, 21 years old
-    from Philippines
-    I'm a second-year student
-    taking Bachelor of Science in Information Technology, 
-    Interested in designing and developing websites.
+    I'm Anthony Valdez, from Philippines
+    I'm taking Bachelor of Science in Information Technology, 
+    interested in designing and developing websites.
    
 
 
