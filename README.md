@@ -1,5 +1,4 @@
-    I'm Anthony Valdez, from Philippines
-    I'm taking Bachelor of Science in Information Technology, 
+    I'm Anthony Valdez taking Bachelor of Science in Information Technology, 
     interested in designing and developing websites.
    
 
