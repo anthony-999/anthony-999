@@ -3,7 +3,7 @@
     
    📩 : anthonyvaldez018@gmail.com
    
-   Linkedin: https://www.linkedin.com/in/anthony-valdez-535aba253/
+   📩 : https://www.linkedin.com/in/anthony-valdez-535aba253/
 
 
 <!---
