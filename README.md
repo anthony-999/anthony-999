@@ -1,9 +1,9 @@
-    I'm Anthony Valdez taking Bachelor of Science in Information Technology, 
-    interested in designing and developing websites.
+    I am Anthony Valdez, currently pursuing a Bachelor of Science in Information Technology.
+    My passion lies in the realm of website design and development.
     
    📩 : anthonyvaldez018@gmail.com
    
-   📩 : https://www.linkedin.com/in/anthony-valdez-535aba253/
+   
 
 
 <!---
