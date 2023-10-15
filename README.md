@@ -1,5 +1,5 @@
-    I am Anthony Valdez, currently pursuing a Bachelor of Science in Information Technology.
-    My passion lies in the realm of website design and development.
+    
+    "My passion lies in the art of website development."
     
    📩 : anthonyvaldez018@gmail.com
    
