@@ -4,13 +4,15 @@ learn new technologies, improve problem-solving skills, and contribute to innova
 
 
 
-## ✨ Technical Skills
+## ✨ Web Development Skills
 -  HTML, CSS, JavaScript
 -  Tailwind CSS
 -  Bootstrap
 -  PHP (Hypertext Preprocessor)
 -  Laravel
 -  MySQL
+-  GitHub
+-  Web Hosting
 
   
  ## 📫 How to reach me:
