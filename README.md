@@ -5,9 +5,11 @@ learn new technologies, improve problem-solving skills, and contribute to innova
 
 
 ## ✨ Web Development Skills
--  HTML, CSS, JavaScript
+-  HTML, CSS
+-  JavaScript (Basic Knowledge)
 -  Tailwind CSS
 -  Bootstrap
+-  ReactJS (Basic Knowledge)
 -  PHP (Hypertext Preprocessor)
 -  Laravel
 -  MySQL
