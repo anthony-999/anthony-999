@@ -9,7 +9,6 @@ learn new technologies, improve problem-solving skills, and contribute to innova
 -  JavaScript (Basic Knowledge)
 -  Tailwind CSS
 -  Bootstrap
--  ReactJS (Basic Knowledge)
 -  PHP (Hypertext Preprocessor)
 -  Laravel
 -  MySQL
