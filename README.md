@@ -1,5 +1,5 @@
 ##  👋 Hi there I'm Anthony Valdez from Laguna, Philippines
-- Passionate about building dynamic and user-friendly web applications. Always eager to
+- Passionate about building web applications. Always eager to
 learn new technologies, improve problem-solving skills, and contribute to innovative digital experiences
 
 
@@ -9,6 +9,7 @@ learn new technologies, improve problem-solving skills, and contribute to innova
 -  JavaScript (Basic Knowledge)
 -  Tailwind CSS
 -  Bootstrap
+-  ReactJS
 -  PHP (Hypertext Preprocessor)
 -  Laravel
 -  MySQL
@@ -18,7 +19,7 @@ learn new technologies, improve problem-solving skills, and contribute to innova
   
  ## 📫 How to reach me:
 - https://www.linkedin.com/in/anthony-valdez-94039b28a/
-- anthonyvaldez018@gmail.com
+- anthonyvaldez793@gmail.com
   
 
 
